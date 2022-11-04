@@ -1,10 +1,10 @@
 [[accerionbindings]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7e6f9fded512829fe991372b0cddd21665b626ef"
+git-tree-sha1 = "a270e07948e1d7dd4cd80cfa471c01b4e995d03c"
 libc = "glibc"
 os = "linux"
 
     [[accerionbindings.download]]
-    sha256 = "4f2128da51202e994b88197fc662800c11c537249f4f85d2e1c9abcbb32a1563"
+    sha256 = "393fafe98a6cb7d36223fbf406a398f620e6c2eaea0ee17ac14cce93ccb36aec"
     url = "https://github.com/jordy-van-appeven/accerionbindings_jll.jl/releases/download/accerionbindings-v5.4.2+0/accerionbindings.v5.4.2.x86_64-linux-gnu-cxx11.tar.gz"
