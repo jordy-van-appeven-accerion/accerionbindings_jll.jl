@@ -28,5 +28,5 @@ libc = "glibc"
 os = "linux"
 
     [[accerionbindings.download]]
-    sha256 = "d106740264f3720d3449d8bf9b0a1784263660302de4cc054587e1e812b29084"
+    sha256 = "96484d5233587add9de5ee2d9948dfc58a94e3e647c6079134fcc2ea7973eded"
     url = "https://github.com/jordy-van-appeven-accerion/accerionbindings_jll.jl/releases/download/accerionbindings-v7.0.0+0/accerionbindings.v7.0.0.x86_64-linux-gnu-cxx11-julia_version+1.11.2.tar.gz"
