@@ -8,3 +8,14 @@ os = "linux"
     [[accerionbindings.download]]
     sha256 = "393fafe98a6cb7d36223fbf406a398f620e6c2eaea0ee17ac14cce93ccb36aec"
     url = "https://github.com/jordy-van-appeven/accerionbindings_jll.jl/releases/download/accerionbindings-v5.4.2+0/accerionbindings.v5.4.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[accerionbindings]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "83d394238a78d1727b2f1c84011ddb1a42f99029"
+julia_version = "1.10.6"
+libc = "glibc"
+os = "linux"
+
+    [[accerionbindings.download]]
+    sha256 = "c9ce72fc9ef81554c225c859bd2464ba6575e3afa938cec497a4a9f70cb23f3b"
+    url = "https://github.com/jordy-van-appeven-accerion/accerionbindings_jll.jl/releases/download/accerionbindings-v7.0.0+0/accerionbindings.v5.4.2.x86_64-linux-gnu-cxx11-julia_version+1.10.6.tar.gz"
