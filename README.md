@@ -17,7 +17,7 @@ The tarballs for `accerionbindings_jll.jl` have been built from these sources:
 
 `accerionbindings_jll.jl` is available for the following platforms:
 
-* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.10.6, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.10.6`)
+* `Linux x86_64 {cxxstring_abi=cxx11, julia_version=1.11.2, libc=glibc}` (`x86_64-linux-gnu-cxx11-julia_version+1.11.2`)
 
 ## Dependencies
 
